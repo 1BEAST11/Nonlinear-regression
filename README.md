@@ -2,8 +2,6 @@
 Программа работает в 2 этапа:
 1. Рассчитывает коэффициенты функции нелинейной регрессии вида x(t)=A*t^5+B*t^4+C*t^3+D*t^2+E*t+F для курса доллара в период 2010-2019 гг.
    
-   ![image](https://github.com/1BEAST11/Nonlinear-regression/assets/73394587/22c5eaac-0971-4f7d-a1c3-92c8f344ac53)
-   
    Рассчитанные коэффициенты:
    
    ![image](https://github.com/1BEAST11/Nonlinear-regression/assets/73394587/fcca4fe4-236b-4ecc-9d40-14aa1e85cca7)
